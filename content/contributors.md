@@ -1,5 +1,5 @@
 ---
-title: Contributors
+title: Photographs
 weight: 201
 type: page
 ---
