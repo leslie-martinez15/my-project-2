@@ -1,3 +1,4 @@
+
 #essay .quire-page__content .container .content {
   background-image: url('../img/figures/wallpaper.jpg');
   background-size: 100%;
@@ -15,7 +16,7 @@ background-color: transparent;
 
 .quire-page.quire-page--list.quire-page--frontmatter.quire-contents {
   background-image: url('../img/figures/wallpaper.jpg');
-  background-size: 100%;
+  background-size: 99%;
 }
 
  .quire-page__header.hero {
@@ -26,4 +27,8 @@ background-color: transparent;
 .quire-figure {
 border-top-width: 0;
 border-bottom-width: 0;
+}
+
+.hero-body .container.is-fluid {
+display: none;
 }
