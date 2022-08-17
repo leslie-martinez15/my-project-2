@@ -1,0 +1,51 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/</loc>
+  </url>
+  
+  <url>
+    <loc>/preface/</loc>
+  </url>
+  
+  <url>
+    <loc>/contents/</loc>
+  </url>
+  
+  <url>
+    <loc>/intro/</loc>
+  </url>
+  
+  <url>
+    <loc>/mygrandma/</loc>
+  </url>
+  
+  <url>
+    <loc>/essay/</loc>
+  </url>
+  
+  <url>
+    <loc>/menu/</loc>
+  </url>
+  
+  <url>
+    <loc>/menu/tacos/</loc>
+  </url>
+  
+  <url>
+    <loc>/menu/torta/</loc>
+  </url>
+  
+  <url>
+    <loc>/menu/pozole/</loc>
+  </url>
+  
+  <url>
+    <loc>/menu/cafecito/</loc>
+  </url>
+  
+  <url>
+    <loc>/photographs/</loc>
+  </url>
+  
+</urlset>
