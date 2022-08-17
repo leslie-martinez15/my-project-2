@@ -5,5 +5,5 @@ menu: false
 type: cover
 slug: .
 toc: false
-image:
+image: Spreadr_.jpg
 ---

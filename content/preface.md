@@ -1,5 +1,9 @@
 ---
 title: Preface
 type: page
-weight: 3
+weight: 2
 ---
+
+{{< q-figure id="pageuno" >}}
+
+{{< q-figure id="pagedos" >}}

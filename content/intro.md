@@ -2,22 +2,15 @@
 title: Introduction
 subtitle: La Cocina de mi Abuela
 weight: 4
-type:
-image: figures/lange-house.jpg
+type: splash
+image:
 ---
+I didn’t get the chance to grow up with my family, they all live in Mexico. My mom talks about the fun times she had while growing up in Acapulco, climbing mango trees and running away from cows. It’s too funny to ever imagine my mom acting that way. One thing that she brings up often is how much she dislikes the clutter of dishes my grandmother has in her kitchen. She tells of the horror stories of how she would come back from school just to be forced to wash piles of dishes.
 
-Random paragrapht that's gonna be places or maybe an IMAGE??? we will have to see
+My grandmother was a food vendor, everyone in town knew her for having one of the best tacos and tortas in town. My grandmother along with my uncle would roll out their wheelbarrow filled to the brim with plates and cups. At the same time, my other two uncles would carry the agua frescas of watermelon and jamaica. My mom and aunt would carry baskets and pots filled with tacos. At the same time, my grandma took a basket on her head filled with even more food. All this preparation was just for lunchtime when students would come out and buy. My grandma was cool; even when students couldn’t afford lunch for that day, she couldn’t bear to let a child not eat lunch. She would always let them slide and say you can pay me next time.
 
-## A Riotous Energy
+When I would get the chance to visit her, her kitchen allowed me to see this side of her that I wasn’t able to grow up with. The person that was there in front of the school and always happy to see you eat well. Her pink kitchen walls are filled with hanging pots and pans that show damage from all the years she used them for cooking. Even though they were all shabby, filled with grease and burnt marks she didn’t let anyone throw them away. It was her way of showing her love of cooking, and the passion she had for making food for people. How much I regret being a picky eater when I was a kid, I would have loved to be able to try my grandmother’s cooking.
 
-{{< q-figure id="dog1" class="is-pulled-right" >}}
+Even when she couldn’t cook anymore she would not let anymore touch her dishes. They could have been unusable but insisted my mom and uncle never throw them away. Her bedroom is now filled with dishes that have been stored away throughout the years.
 
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration ([fig. 1](#dog1)). During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](/catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
-
-{{< q-figure id="dog2" class="is-pulled-left" >}}
-
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm Security Administration (FSA), documenting workers and architecture in the Southeastern states ([fig. 2](#dog2)). In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
-
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
-
-{{< q-figure id="photo-podcast" >}}
+I see these dishes as my grandmother’s hard work that was able to provide a home for not only my mom and her siblings but generations to come.
