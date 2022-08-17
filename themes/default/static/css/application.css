@@ -10593,8 +10593,7 @@ div.multimedia {
       .quire-entry div.side-by-side div.quire-entry__content {
         width: 44%;
         -webkit-box-flex: 0;
-                flex: none;
-        background: #EEF2F3; } }
+                flex: none; } }
     @media screen and (min-width: 1184px) {
       .quire-entry div.side-by-side div.quire-entry__content section.section,
       .quire-entry div.side-by-side div.quire-entry__content section,

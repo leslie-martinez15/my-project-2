@@ -5,10 +5,14 @@
 }
 
 
-.quire #menu-catalogue-index #main {
+.quire #main {
   background-image: url('../img/figures/wallpaper.jpg');
   background-size: 100%;
 }
+.quire #preface #main {
+  background-image: none;
+}
+
 
 .quire #menu-catalogue-index #main .quire-page__header.hero {
 background-color: transparent;
@@ -22,7 +26,6 @@ background-color: transparent;
  .quire-page__header.hero {
    background-color: transparent;
  }
-
 
 .quire-figure {
 border-top-width: 0;
