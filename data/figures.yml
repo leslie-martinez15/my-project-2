@@ -32,3 +32,9 @@ figure_list:
     src: figures/pageuno.jpg
   - id: "pagedos"
     src: figures/pagedos.jpg
+  - id: "bread"
+    src: figures/bread.jpg
+  - id: "storagespace1"
+    src: figures/storagespace1.jpg
+  - id: "storagespace5"
+    src: figures/storagespace5.jpg

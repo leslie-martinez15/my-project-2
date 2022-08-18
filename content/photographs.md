@@ -9,3 +9,9 @@ type: page
 {{< q-figure id="sidewall" >}}
 
 {{< q-figure id="anglekitchen" >}}
+
+My Grandma's Storage
+
+{{< q-figure id="storagespace1" >}}
+
+{{< q-figure id="storagespace5" >}}

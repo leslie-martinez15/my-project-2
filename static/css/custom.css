@@ -1,9 +1,11 @@
+.quire #cover{
+  background-image: url(img/Spreadr_.jpg);
+  background-size: 98%;
+  }
 
-#essay .quire-page__content .container .content {
-  background-image: url('../img/figures/wallpaper.jpg');
-  background-size: 100%;
+.quire-page__content .container .content {
+ brackground-color: none
 }
-
 
 .quire #main {
   background-image: url('../img/figures/wallpaper.jpg');
@@ -11,8 +13,20 @@
 }
 .quire #preface #main {
   background-image: none;
+  background-color: #FFEBCD
 }
 
+.quire-page__content #preface #main .container .content {
+background-color: #FFEBCD
+}
+
+.quire #cover #main {
+  background-image: none;
+}
+
+.quire #mygrandma #main {
+  background-image: none;
+}
 
 .quire #menu-catalogue-index #main .quire-page__header.hero {
 background-color: transparent;

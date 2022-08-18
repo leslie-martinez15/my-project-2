@@ -6,6 +6,15 @@ object:
   - id: 2
 class: side-by-side
 ---
-You knew something was happening when this big old pot was whipped out. It had to be something like Christmas, perhaps a first communion that prompted the reason to make pozole. With the hot humid weather of Acapulco, eating something hot helps cool down your body.
+
+---
+
+Made for family and special occasions
+
+A bowl filled with hominy and pig broth with dice green chile and radish sprinkled with cabbage on top
+
+---
+
+You knew something was happening when this big old pot was whipped out. It had to be something like Christmas or perhaps a first communion that prompted the reason to make pozole.
 
 {{< q-figure id="pinkpot" >}}
